@@ -1,6 +1,6 @@
-# <p align ="center"> _VRIDDHI_ </p>
+#  _VRIDDHI_ 
 
-**<p align = "center">Welcome to Vriddhi**<br><br>_**Vriddhi**_ in Sanskrit means _Progress_, and we seek for `Progress` of our `Education System` by means of a website that helps in highlighting `Key Statistics` based on various Parameters defined by us. We have interlinked 3 levels of education namely *Primary*, *Secondary* ,and *Technical Education.* </p>
+**Welcome to Vriddhi**<br><br>_**Vriddhi**_ in Sanskrit means _Progress_, and we seek for `Progress` of our `Education System` by means of a website that helps in highlighting `Key Statistics` based on various Parameters defined by us. We have interlinked 3 levels of education namely *Primary*, *Secondary* ,and *Technical Education.* </p>
 <br>
 **Key goals of this website at a glance:-**
 - We have a `Master Database` for the three Major `Levels of Education`.
